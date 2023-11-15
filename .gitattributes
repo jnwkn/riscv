@@ -1,0 +1,5 @@
+soc filter=lfs diff=lfs merge=lfs -text
+wujian100_open_vivado filter=lfs diff=lfs merge=lfs -text
+wujian100_uart_sdk1 filter=lfs diff=lfs merge=lfs -text
+wujian100_uart_sdk2 filter=lfs diff=lfs merge=lfs -text
+wujian100fft filter=lfs diff=lfs merge=lfs -text
